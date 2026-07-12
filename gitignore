@@ -1,0 +1,14 @@
+# Rapports générés
+rapport_*.txt
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Fichiers temporaires
+*.tmp
+*.swp
+*~

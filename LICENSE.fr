@@ -1,0 +1,58 @@
+LICENCE MIT
+
+Copyright (c) 2026 DarkDeku225
+
+L'autorisation est par la présente accordée, gratuitement, à toute personne
+obtenant une copie de ce logiciel et des fichiers de documentation associés
+(le "Logiciel"), de traiter le Logiciel sans restriction, y compris, sans s'y
+limiter, les droits d'utiliser, de copier, de modifier, de fusionner, de
+publier, de distribuer, de concéder sous licence et/ou de vendre des copies du
+Logiciel, et de permettre aux personnes auxquelles le Logiciel est fourni de
+le faire, sous réserve des conditions suivantes :
+
+L'avis de droit d'auteur ci-dessus et cet avis de permission doivent être
+inclus dans toutes les copies ou parties substantielles du Logiciel.
+
+LE LOGICIEL EST FOURNI "TEL QUEL", SANS GARANTIE D'AUCUNE SORTE, EXPRESSE OU
+IMPLICITE, Y COMPRIS, MAIS SANS S'Y LIMITER, LES GARANTIES DE QUALITÉ
+MARCHANDE, D'ADÉQUATION À UN USAGE PARTICULIER ET D'ABSENCE DE CONTREFAÇON.
+EN AUCUN CAS LES AUTEURS OU LES TITULAIRES DU DROIT D'AUTEUR NE SERONT
+RESPONSABLES DE TOUTE RÉCLAMATION, DOMMAGE OU AUTRE RESPONSABILITÉ, QUE CE
+SOIT DANS UNE ACTION CONTRACTUELLE, DÉLICTUELLE OU AUTRE, DÉCOULANT DE, HORS
+DE OU EN RELATION AVEC LE LOGICIEL OU L'UTILISATION OU D'AUTRES TRANSACTIONS
+DANS LE LOGICIEL.
+
+═══════════════════════════════════════════════════════════════════════════
+
+TERMES ADDITIONNELS ET AVERTISSEMENTS :
+
+1. USAGE ÉDUCATIF
+   Cet outil est fourni à des fins éducatives et de diagnostic uniquement.
+   L'auteur n'est pas responsable de toute utilisation abusive ou de tout
+   dommage causé par cet outil.
+
+2. AUCUNE GARANTIE
+   Ce logiciel est fourni "tel quel" sans garantie d'aucune sorte.
+   Utilisation à vos propres risques.
+
+3. VIE PRIVÉE
+   Cet outil ne collecte, ne transmet ni ne stocke aucune donnée personnelle
+   en ligne. Toute l'analyse est effectuée localement sur votre appareil.
+
+4. ATTRIBUTION
+   Si vous forkez, modifiez ou distribuez ce projet, veuillez fournir une
+   attribution à l'auteur original (DarkDeku225) et inclure un lien vers le
+   dépôt original : https://github.com/Deku0019523f/Deku-Analyse
+
+5. CONTRIBUTIONS
+   Les contributions sont les bienvenues ! En contribuant à ce projet, vous
+   acceptez que vos contributions soient sous la même licence MIT.
+
+═══════════════════════════════════════════════════════════════════════════
+
+CONTACT :
+- Telegram : @DarkDeku225 (t.me/DarkDeku225)
+- GitHub : https://github.com/Deku0019523f
+
+VERSION : 2.0
+DERNIÈRE MISE À JOUR : Janvier 2026
