@@ -1,0 +1,17 @@
+# Rapports générés
+rapport_*.txt
+
+# Configuration locale (générée par install.sh)
+.deku-config
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Fichiers temporaires
+*.tmp
+*.swp
+*~
